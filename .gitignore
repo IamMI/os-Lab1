@@ -1,0 +1,13 @@
+.vscode/
+.vs/
+.DS_Store
+*.o
+*.d
+*.asm
+esh
+conf/info.mk
+*.zip
+a/*
+rule.txt
+b/*
+
