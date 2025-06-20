@@ -6,7 +6,8 @@
   - Run external commands
   - Pipe
   - Redirection
-  - Sandbox  
+  - Sandbox
+    
   More requirement please visit [Requirement](https://gist.nju.edu.cn/course-os/docs/lab/lab1.html)
 - How can I realize?  
   More info about how can I do it, please read pdf in the reps.
